@@ -7,7 +7,8 @@ import './App.css'
 function App() {
   const [count, setCount] = useState("vdvdvdv")
   const vdvdv = 1
-  
+  const vdvdv2 = 2
+
 
   return (
     <>
